@@ -1,4 +1,2 @@
 # Knn-Digit-Recognizer
-在MNIST（一个带Label的数字像素集合）上训练一个数字分类器
-训练集的大小为42000个training example
-每个example是28*28=784个灰度像素值和一个0~9的label。
+这是基于《机器学习实战》书上的KNN源代码再加上个人造的数据集而实现的手写数字识别
